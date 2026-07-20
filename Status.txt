@@ -1,4 +1,4 @@
-Phase 1: Mandatory | 24 / 212 | 57hrs
+Phase 1: Mandatory | 61 / 212 | 57hrs
 Section 1: Introduction | 2 / 2 | 11min
 Section 2: Get started with react | 9 / 9 | 1hr 17min
 Section 3: Component ecosystem of react | 0 / 8 | 1hr 17min
@@ -9,7 +9,7 @@ Section 7: Custom Hooks | 0 / 7 | 1hr 27min
 Section 8: State Management - Zustand | 0 / 6 | 41min
 
 Section 9: Git and Github Section - Add on Section | 9 / 9 | 3hr 43min
-Section 10: JS Refresher - Add on | 4 / 41 | 12hr 34min
+Section 10: JS Refresher - Add on | 41 / 41 | 12hr 34min
 
 Section 11: NextJS: Getting started and Fundamentals - Updated | 0 / 4 | 43min
 Section 12: Project Structure & File System Routing - Updated | 0 / 7 | 58min
